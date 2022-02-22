@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	font-family: helvetica, Arial, sans-serif;
+		font-size: 20px;
+}
+
+header{
+	background-color: black;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Gideon Roman', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+h2{
+	font-size: 30px;
+
+}
+
+p{
+
+}
+
+footer{
+	color: white;
+	background-color: lightgray;
+	text-align: center;
+	padding: 50px;
+
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
