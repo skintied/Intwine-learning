@@ -11,3 +11,11 @@ h1{
 h2{
 	color: darkred;
 }
+
+p{
+	font-size: 20px;
+	text-align: center;
+}
+img{
+	margin: 0 auto;
+}
